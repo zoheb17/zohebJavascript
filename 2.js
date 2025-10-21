@@ -34,3 +34,5 @@ variable basically store ==> numbers/text and other data types
 console.log(`my name is ${firstName} ${lastName}and my age is ${age} /n and my faviourtFood is ${faviourtFood}`)
 
 
+
+
