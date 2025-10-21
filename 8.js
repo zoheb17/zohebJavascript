@@ -20,11 +20,13 @@
 
 // {
     // let b =10;
-
+            // ---------------------{this will show error because it is outside the box}
+        
+            
 // }
 // console.log(b)
 {
     let b =10;
-    console.log(b)
+    console.log(b) 
 
-}
+// } ------------------------------------ {this will rum because it is in the box }
