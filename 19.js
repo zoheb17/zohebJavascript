@@ -27,4 +27,4 @@ let myFrinds=["ibrahim","kaif","afnaan"];
 console.log(typeof myFrinds)
 
 // note : by default all non primitive datatype is object
-// in non primitive we have object and arrays
+// in non primitive we have object and arrays 

@@ -25,13 +25,8 @@
 // 2.arrays
  
 // object ex
-let person ={
-    firstName:"zoheb",
-    age:21,
-    isAlive:true,
-    bankBalance:23456789n,
-    slepping:null
-}
+ 
+
 console.log(person)
 
 let personDetails =["zoheb",21,true,345678n,null]

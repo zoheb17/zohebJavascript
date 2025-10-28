@@ -12,7 +12,8 @@
 
 }
 */
-// block scope              VAR          LET               CONST
+// block scope              
+// VAR          LET               CONST
 
 //inside of block           YES          YES               YES
 

@@ -69,3 +69,20 @@ else if(temp>=25){
 else{
     console.log("it is cold")
 }
+
+
+let fever = 99  
+if(fever >= 104){
+    console.log("he neede a urgent treatmentr")
+} else if (temp>=102){
+    console.log("he need a doctor")
+}
+else if(fever>=100){
+ console.log("he is ill");
+} 
+else{
+    console.log("he is normal")
+
+
+}
+

@@ -10,11 +10,23 @@
 //      }
 // }
 
-for(let i =1; i <= 10; i++){
-    if(i==7){
-        console.log("my name is zoheb")
-        continue;
+// for(let i =1; i <= 10; i++){
+//     if(i==7){
+//         console.log( i,"my name is zoheb")
+//         continue;
         
-    }
-    console.log(i);
-}
+//     }
+//     console.log(i);
+// }
+//  function myInfo (){
+//     firstName:"zoheb"
+//     age:21
+//     contact:234567898
+//     adress:"ganga nagar"} 
+
+let result = n1 
+let n1 =5; 
+console.log(result)
+
+
+ 
